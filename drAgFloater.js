@@ -8,9 +8,9 @@ height: 100px;
 width: 100px;
 ">
 <div id="scan"></div>
-<img style="position: absolute;left:39px;top: 66px;width: 20px" src="/drAEye.png" alt="">
-<img id='touch' style="position: absolute;left:36px;top: 106px;width: 26px" src="/touch.svg" alt="">
-<img  src="/drA.svg" alt="">
+<img style="position: absolute;left:39px;top: 66px;width: 20px" src="drAEye.png" alt="">
+<img id='touch' style="position: absolute;left:36px;top: 106px;width: 26px" src="touch.svg" alt="">
+<img  src="drA.svg" alt="">
 <style>
 #scan{
     position: absolute;
