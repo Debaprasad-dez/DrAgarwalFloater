@@ -8,8 +8,8 @@ height: 100px;
 width: 100px;
 ">
 <div id="scan"></div>
-<img style="position: absolute;left:39px;top: 66px;width: 20px" src="drAEye.png" alt="">
-<img id='touch' style="position: absolute;left:36px;top: 106px;width: 26px" src="touch.svg" alt="">
+<img style="position: absolute;left:39px;top: 44px;width: 20px" src="drAEye.png" alt="">
+<img id='touch' style="position: absolute;left:36px;top: 86px;width: 26px" src="touch.svg" alt="">
 <img  src="drA.svg" alt="">
 <style>
 #scan{
@@ -17,7 +17,7 @@ width: 100px;
     background: linear-gradient(180deg, rgba(103, 210, 223, 0.25) 0%, rgba(103, 210, 223, 0.125) 85.42%, rgba(103, 210, 223, 0.25) 100%);
     height: 40px;
     width: 73px;
-    top: 33px;
+    top: 11px;
     left: 12px;
     z-index: 100;
     border-radius: 8px 8px 0 0;
